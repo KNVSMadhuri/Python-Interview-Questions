@@ -1,0 +1,47 @@
+Python Interview Questions
+
+What are python data structures?
+What are differences between List and Tuple.
+What are dictionaries?
+which module u use to send emails?
+which module u use to convert dates formats?
+How to read a file in python?
+what is the differences between readline and readlines?
+what is difference between map() and reduce() and filters()?
+what are python generators?
+what is lambda function?
+what is list comprehension?
+what are decorators?
+what is slicing in python?
+what pass will do in python?
+what are the arguments when u create a function and if we don't have self as argument did it give as an error?
+
+Programs:
+
+1. Fibbanoicci Series?
+2. Check whether given number is even or odd?
+3. Factorial of the given number using recursion in python?
+4.  multiplication table using closures?
+5. Reverse a string  
+
+Oops:
+
+1. what are the oops concepts?
+2. Did multiple inheritence support in python?
+3. what is the structure of multiple inheritence in python?
+4. Reverse of a given string in a single line using python?
+5. Sort a dictionary elements with second value?
+6. How to create constructors in python?
+7. How to define abstract classes in python?
+
+Django:
+
+1.Explain the architecture of Django?
+2.what is the command to run the server?
+3.Explain how to create a project using Django?
+4.Explain how to create database using Django? settings.py
+5.What does django templates consits of?
+6.what command line could load data into Django? Django-admin.py loaddata
+7.what is a view? what it consists of?
+8.List of commands that manage.py to implement?
+
